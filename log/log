@@ -1,0 +1,30 @@
+2025-07-04 21:41:36,382 INFO [admin] [test_login.py] (test_login:37) - 测试登录页面
+2025-07-04 21:41:36,736 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[contains(text(), '关于去哪儿')]
+2025-07-04 21:41:36,900 INFO [admin] [base.py] (base_change_window:102) - 切换窗口成功
+2025-07-04 21:41:41,175 INFO [admin] [base.py] (base_click_element:44) - 点击元素//a[text()='登录']
+2025-07-04 21:41:41,258 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
+2025-07-04 21:41:41,390 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入13438970225
+2025-07-04 21:41:41,455 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入13880188217fu
+2025-07-04 21:41:41,496 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-07-04 21:41:41,545 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-07-04 21:41:43,750 INFO [admin] [base.py] (base_drag:122) - 滑动模块成功
+2025-07-04 21:41:44,711 INFO [admin] [base.py] (base_click_element:44) - 点击元素#__loginInfo_r__
+2025-07-04 21:41:44,716 INFO [admin] [base.py] (base_if_exist:132) - 元素#__loginInfo_r__存在
+2025-07-04 21:41:45,849 INFO [admin] [base.py] (base_click_element:44) - 点击元素//a[text()='登录']
+2025-07-04 21:41:45,900 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
+2025-07-04 21:41:45,901 INFO [admin] [test_login.py] (test_login:37) - 测试登录页面
+2025-07-04 21:41:45,956 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入15135974
+2025-07-04 21:41:46,010 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入shs09211
+2025-07-04 21:41:46,047 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-07-04 21:41:46,082 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-07-04 21:41:47,938 INFO [admin] [base.py] (base_drag:122) - 滑动模块成功
+2025-07-04 21:41:47,957 INFO [admin] [test_login.py] (test_login:71) - 文本提示与预期结果匹配
+2025-07-04 21:41:48,354 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
+2025-07-04 21:41:48,355 INFO [admin] [test_login.py] (test_login:37) - 测试登录页面
+2025-07-04 21:41:48,447 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入1513597fdg4
+2025-07-04 21:41:48,504 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入shs09211
+2025-07-04 21:41:48,546 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-07-04 21:41:48,585 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-07-04 21:41:50,427 INFO [admin] [base.py] (base_drag:122) - 滑动模块成功
+2025-07-04 21:41:50,437 INFO [admin] [test_login.py] (test_login:71) - 文本提示与预期结果匹配
+2025-07-04 21:41:50,970 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
