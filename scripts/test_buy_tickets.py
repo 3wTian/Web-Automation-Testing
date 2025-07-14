@@ -36,7 +36,7 @@ class TestBuyTickets(unittest.TestCase):
         global global_val
         # 如果是第一组数据，需要先登录
         if global_val == 0:
-            self.login.page_login(username='13438970225', password='13880188217fu')
+            self.login.page_login(username='your username', password='your password')
             global_val = 1
         # 购票
         self.buy.page_buy_tickets(begin_station, terminal_station, time, name, id, phone)

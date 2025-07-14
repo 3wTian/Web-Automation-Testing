@@ -34,7 +34,7 @@ class TestPublishNote(unittest.TestCase):
     def test_publish_notes(self, tit, preface, content, success, expect_result):
         global global_var
         if global_var == 0:
-            self.login.page_login('19562136949', '13880188217fu')
+            self.login.page_login('your username', 'your password')
             global_var = 1
         self.publish.page_publish(tit, preface, content)
         if success:
