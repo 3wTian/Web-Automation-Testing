@@ -8,7 +8,6 @@ if __name__ == '__main__':
         # 加载测试用例
         suite = unittest.defaultTestLoader.discover(
             'D:/PyCharm Community Edition 2023.2.2/project/Web-Auto-Testing/scripts/', pattern="test_*.py")
-
         # 配置HTML报告路径
         report_dir = os.path.join('D:/PyCharm Community Edition 2023.2.2/project/Web-Auto-Testing/', "reports")
         report_path = 'D:/PyCharm Community Edition 2023.2.2/project/Web-Auto-Testing/reports/TestReport.html'

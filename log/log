@@ -1,0 +1,5 @@
+2025-08-18 14:44:04,970 ERROR [admin] [base.py] (base_find_element:34) - 定位元素//span/b[text() = '攻略']超时
+2025-08-18 14:44:04,971 ERROR [admin] [base.py] (base_click_element:46) - 点击元素//span/b[text() = '攻略']失败
+2025-08-18 14:44:08,087 ERROR [admin] [base.py] (base_find_element:34) - 定位元素//span/b[text() = '攻略']超时
+2025-08-18 14:44:08,087 ERROR [admin] [base.py] (base_click_element:46) - 点击元素//span/b[text() = '攻略']失败
+2025-08-18 14:44:10,212 INFO [admin] [test.py] (<module>:22) - 测试执行成功

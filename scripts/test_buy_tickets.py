@@ -27,6 +27,8 @@ class TestBuyTickets(unittest.TestCase):
         cls.login = PageLogin(cls.driver)
 
 
+ 
+
     @classmethod
     def tearDownClass(cls):
         GetDriver.quit_driver()

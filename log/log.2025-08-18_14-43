@@ -1,0 +1,52 @@
+2025-08-18 14:43:04,165 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[contains(text(), '关于去哪儿')]
+2025-08-18 14:43:04,276 INFO [admin] [base.py] (base_change_window:102) - 切换窗口成功
+2025-08-18 14:43:10,012 INFO [admin] [base.py] (base_click_element:44) - 点击元素//a[text()='登录']
+2025-08-18 14:43:10,057 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
+2025-08-18 14:43:10,135 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入your username
+2025-08-18 14:43:10,202 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入your password
+2025-08-18 14:43:10,245 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-08-18 14:43:10,293 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-08-18 14:43:12,152 INFO [admin] [base.py] (base_drag:122) - 滑动模块成功
+2025-08-18 14:43:15,273 ERROR [admin] [base.py] (base_find_element:34) - 定位元素//li[@class='qhf_train']//span/b[text()='火车票']超时
+2025-08-18 14:43:15,273 ERROR [admin] [base.py] (base_click_element:46) - 点击元素//li[@class='qhf_train']//span/b[text()='火车票']失败
+2025-08-18 14:43:18,385 ERROR [admin] [base.py] (base_find_element:34) - 定位元素//li[@class='qhf_train']//span/b[text()='火车票']超时
+2025-08-18 14:43:18,385 ERROR [admin] [base.py] (base_click_element:46) - 点击元素//li[@class='qhf_train']//span/b[text()='火车票']失败
+2025-08-18 14:43:21,502 ERROR [admin] [base.py] (base_find_element:34) - 定位元素//li[@class='qhf_train']//span/b[text()='火车票']超时
+2025-08-18 14:43:21,502 ERROR [admin] [base.py] (base_click_element:46) - 点击元素//li[@class='qhf_train']//span/b[text()='火车票']失败
+2025-08-18 14:43:27,556 INFO [admin] [test_login.py] (test_login:37) - 测试登录页面
+2025-08-18 14:43:27,673 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[contains(text(), '关于去哪儿')]
+2025-08-18 14:43:27,868 INFO [admin] [base.py] (base_change_window:102) - 切换窗口成功
+2025-08-18 14:43:32,639 INFO [admin] [base.py] (base_click_element:44) - 点击元素//a[text()='登录']
+2025-08-18 14:43:33,089 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
+2025-08-18 14:43:33,155 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入username
+2025-08-18 14:43:33,205 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入password
+2025-08-18 14:43:33,242 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-08-18 14:43:33,280 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-08-18 14:43:35,141 INFO [admin] [base.py] (base_drag:122) - 滑动模块成功
+2025-08-18 14:43:38,228 ERROR [admin] [base.py] (base_find_element:34) - 定位元素#__loginInfo_r__超时
+2025-08-18 14:43:38,229 ERROR [admin] [base.py] (base_click_element:46) - 点击元素#__loginInfo_r__失败
+2025-08-18 14:43:38,335 INFO [admin] [test_login.py] (test_login:37) - 测试登录页面
+2025-08-18 14:43:38,389 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入15135974
+2025-08-18 14:43:38,446 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入shs09211
+2025-08-18 14:43:38,480 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-08-18 14:43:38,509 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-08-18 14:43:41,627 ERROR [admin] [base.py] (base_find_element:34) - 定位元素.OQphwVk_QrhLuedI5-Jme超时
+2025-08-18 14:43:41,629 INFO [admin] [test_login.py] (test_login:37) - 测试登录页面
+2025-08-18 14:43:41,679 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入1513597fdg4
+2025-08-18 14:43:41,727 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入shs09211
+2025-08-18 14:43:41,756 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-08-18 14:43:41,783 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-08-18 14:43:43,604 INFO [admin] [base.py] (base_drag:122) - 滑动模块成功
+2025-08-18 14:43:43,627 INFO [admin] [test_login.py] (test_login:71) - 文本提示与预期结果匹配
+2025-08-18 14:43:44,954 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
+2025-08-18 14:43:51,401 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[contains(text(), '关于去哪儿')]
+2025-08-18 14:43:51,525 INFO [admin] [base.py] (base_change_window:102) - 切换窗口成功
+2025-08-18 14:43:56,634 INFO [admin] [base.py] (base_click_element:44) - 点击元素//a[text()='登录']
+2025-08-18 14:43:56,672 INFO [admin] [base.py] (base_click_element:44) - 点击元素//*[@class='passwordTab']
+2025-08-18 14:43:56,741 INFO [admin] [base.py] (base_input_element:70) - 向元素#username输入your username
+2025-08-18 14:43:56,799 INFO [admin] [base.py] (base_input_element:70) - 向元素#password输入your password
+2025-08-18 14:43:56,841 INFO [admin] [base.py] (base_click_element:44) - 点击元素#agreement
+2025-08-18 14:43:56,893 INFO [admin] [base.py] (base_click_element:44) - 点击元素//div[@class='button' and @role='button']/span[text()='登录']
+2025-08-18 14:43:58,759 INFO [admin] [base.py] (base_drag:122) - 滑动模块成功
+2025-08-18 14:44:01,861 ERROR [admin] [base.py] (base_find_element:34) - 定位元素//span/b[text() = '攻略']超时
+2025-08-18 14:44:01,861 ERROR [admin] [base.py] (base_click_element:46) - 点击元素//span/b[text() = '攻略']失败
